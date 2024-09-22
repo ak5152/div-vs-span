@@ -1,0 +1,8 @@
+span{
+    border: 4px solid black;
+    padding: 50px;
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+}
+/* we can see that span(inline element do not accept height width of the element and accept padding and margin only in horizontal direction but not in vertical direction)     */

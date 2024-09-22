@@ -1,0 +1,9 @@
+div{
+    height: 100px;
+    width: 100px;
+    border: 4px solid black;
+    padding: 50px;
+    margin: 30px;
+}
+
+/*we can see that all the properties are applied on the div in horizontal as well as in vertical direction   */
