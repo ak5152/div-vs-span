@@ -1,0 +1,2 @@
+# DIFFERENCE BETWEEN INLINE AND BLOCK
+conceptual topic.
